@@ -1,6 +1,6 @@
 <?php
 
-echo "Mike le roi";
+echo "mike le roi";
 
 
 
